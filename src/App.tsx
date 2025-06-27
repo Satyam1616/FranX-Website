@@ -3,7 +3,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
 import Stats from './components/Stats';
-import Skills from './components/Skills';
+// import Skills from './components/Skills';
 import Services from './components/Services';
 import BusinessImpact from './components/BusinessImpact';
 import Portfolio from './components/Portfolio';
