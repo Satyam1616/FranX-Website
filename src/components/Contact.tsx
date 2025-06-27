@@ -202,11 +202,13 @@ const Contact = () => {
                   className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-colors duration-200"
                 >
                   <option value="">Select a service</option>
+                  <option value="web development">Web Development</option>
+                  <option value="UI/UX">UI/UX</option>
                   <option value="graphic-design">Graphic Design</option>
                   <option value="video-editing">Video Editing</option>
                   <option value="branding">Brand Identity</option>
                   <option value="short-form">Short-form Content</option>
-                  <option value="consultation">Social Media</option>
+                  <option value="consultation">Social Media Management</option>
                 </select>
               </div>
 
